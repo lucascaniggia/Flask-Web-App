@@ -37,4 +37,4 @@ Lucas Caniggia 🤓
 
 ## Thanks
 
-To @techwithtim for his awesome and funny tutorials! 🙏🏾🙌🏾
+To [@TechWithTim](https://www.techwithtim.net/) for his awesome and funny tutorials! 🙏🏾🙌🏾
