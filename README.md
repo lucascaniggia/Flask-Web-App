@@ -1,6 +1,6 @@
 # Flask Web App
 
-This is a note's app made with Python, Flask and SQLAlchemy. This example is based and extracted from [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)'s YouTube channel. For great programming and tech tutorials, support and subscribe!
+This is a note's app made with Python, Flask and SQLAlchemy. This example is based and extracted from [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)'s YouTube channel.
 
 ## Features
 
@@ -34,7 +34,3 @@ Go to `http://127.0.0.1:5000`
 ## Author
 
 Lucas Caniggia 🤓
-
-## Thanks
-
-To [@TechWithTim](https://www.techwithtim.net/) for his awesome and funny tutorials! 🙏🏾🙌🏾
